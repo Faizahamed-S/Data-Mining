@@ -15,4 +15,4 @@ Check out my medium article on" When Old Meets New: How AI is Revitalizing Tradi
 
 ## [Arxiv Research Paper](https://arxiv.org/submit/5131139/view)
 
-Check out my Research work on Arxiv on"When Data Meets AI: A Fresh Look at Tradi6onal Data Mining"
+Check out my Research work on Arxiv on"When Data Meets AI: A Fresh Look at Tradional Data Mining"
