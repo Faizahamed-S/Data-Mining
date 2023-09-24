@@ -11,8 +11,8 @@ I have used Germany cars dataset from kaggle and applied all methodologies avail
 
 ## [Medium Article](https://medium.com/@Faizahameds/when-old-meets-new-how-ai-is-revitalizing-traditional-data-mining-methods-9d2827d87c09)
 
-Check out my article " When Old Meets New: How AI is Revitalizing Traditional Data Mining Methods" in Medium
+Check out my medium article on" When Old Meets New: How AI is Revitalizing Traditional Data Mining Methods" in Medium
 
-## [Arnix Research Paper](https://arxiv.org/submit/5131139/view)
+## [Arxiv Research Paper](https://arxiv.org/submit/5131139/view)
 
-Check out my Research work on "When Data Meets AI: A Fresh Look at Tradi6onal Data Mining"
+Check out my Research work on Arxiv on"When Data Meets AI: A Fresh Look at Tradi6onal Data Mining"
